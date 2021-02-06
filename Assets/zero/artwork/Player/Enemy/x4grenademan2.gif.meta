@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: 34f019cdf35a89841875540340c1eea4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6630448517152369614
+    second: x4grenademan2_0
+  - first:
+      213: 7244581152551497882
+    second: x4grenademan2_1
+  - first:
+      213: 8516106797498590132
+    second: x4grenademan2_2
+  - first:
+      213: -2284085491753286349
+    second: x4grenademan2_3
+  - first:
+      213: -158484145087027693
+    second: x4grenademan2_4
+  - first:
+      213: 2740932076467455292
+    second: x4grenademan2_5
+  - first:
+      213: 7778255719506362723
+    second: x4grenademan2_6
+  - first:
+      213: 547480265039268592
+    second: x4grenademan2_7
+  - first:
+      213: -5308813418467059775
+    second: x4grenademan2_8
+  - first:
+      213: 687109167281868186
+    second: x4grenademan2_9
+  - first:
+      213: -3373015118256681855
+    second: x4grenademan2_10
+  - first:
+      213: -180489975268755784
+    second: x4grenademan2_11
+  - first:
+      213: -4783180341623544887
+    second: x4grenademan2_12
+  - first:
+      213: -6539564360083656353
+    second: x4grenademan2_13
+  - first:
+      213: -6337561463606036721
+    second: x4grenademan2_14
+  - first:
+      213: -5123169417432610599
+    second: x4grenademan2_15
+  - first:
+      213: 2410658357876092174
+    second: x4grenademan2_16
+  - first:
+      213: 4106793132761385408
+    second: x4grenademan2_17
+  - first:
+      213: -5104900687306000084
+    second: x4grenademan2_18
+  - first:
+      213: -4794805066259922870
+    second: x4grenademan2_19
+  - first:
+      213: -5934138554036944833
+    second: x4grenademan2_20
+  - first:
+      213: -612682693621645349
+    second: x4grenademan2_21
+  - first:
+      213: -8295016789396328075
+    second: x4grenademan2_22
+  - first:
+      213: -4633303720006602541
+    second: x4grenademan2_23
+  - first:
+      213: -3025201922979696988
+    second: x4grenademan2_24
+  - first:
+      213: -1454166771186381311
+    second: x4grenademan2_25
+  - first:
+      213: -5572893251468637249
+    second: x4grenademan2_26
+  - first:
+      213: -7506644920074624439
+    second: x4grenademan2_27
+  - first:
+      213: -3053051127255260289
+    second: x4grenademan2_28
+  - first:
+      213: -8856130543169018510
+    second: x4grenademan2_29
+  - first:
+      213: 1151216874315166818
+    second: x4grenademan2_30
+  - first:
+      213: 6560232247317382446
+    second: x4grenademan2_31
+  - first:
+      213: -5494586697891431688
+    second: x4grenademan2_32
+  - first:
+      213: -2550605304898612155
+    second: x4grenademan2_33
+  - first:
+      213: -4581647621806204856
+    second: x4grenademan2_34
+  - first:
+      213: 408166031546637051
+    second: x4grenademan2_35
+  - first:
+      213: 3449395378697648494
+    second: x4grenademan2_36
+  - first:
+      213: 5361149311757148187
+    second: x4grenademan2_37
+  - first:
+      213: -31151959321754665
+    second: x4grenademan2_38
+  - first:
+      213: -6465899737240533955
+    second: x4grenademan2_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 17
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: x4grenademan2_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 344
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbe166fbc5140c50800000000000000
+      internalID: 6630448517152369614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 345
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a907250cc2ce98460800000000000000
+      internalID: 7244581152551497882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 345
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b36136130a4f2670800000000000000
+      internalID: 8516106797498590132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 345
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3350c6bc85c4d40e0800000000000000
+      internalID: -2284085491753286349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_4
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 345
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3166e8d7283fccdf0800000000000000
+      internalID: -158484145087027693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 345
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c350153933fb90620800000000000000
+      internalID: 2740932076467455292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 345
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361c35dad5ae1fb60800000000000000
+      internalID: 7778255719506362723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 345
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fac33f766a099700800000000000000
+      internalID: 547480265039268592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 272
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7917db25e4356b0800000000000000
+      internalID: -5308813418467059775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 273
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d00cda52a198900800000000000000
+      internalID: 687109167281868186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 273
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cc946fe94a031d0800000000000000
+      internalID: -3373015118256681855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 273
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b63692e255ce7df0800000000000000
+      internalID: -180489975268755784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_12
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 297
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3a5e852dabe9db0800000000000000
+      internalID: -4783180341623544887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 297
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51b863dcdcce35a0800000000000000
+      internalID: -6539564360083656353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_14
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 297
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07be8b3d657c08a0800000000000000
+      internalID: -6337561463606036721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_15
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 297
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8c8cdfe88d6e8b0800000000000000
+      internalID: -5123169417432610599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 210
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0de7081101647120800000000000000
+      internalID: 2410658357876092174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 210
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9814478924ef830800000000000000
+      internalID: 4106793132761385408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 210
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c297a7f2fdfb729b0800000000000000
+      internalID: -5104900687306000084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_19
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 210
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40855a323e657db0800000000000000
+      internalID: -4794805066259922870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_20
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 210
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f308daeec64b5ada0800000000000000
+      internalID: -5934138554036944833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_21
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 210
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdff6a616505f77f0800000000000000
+      internalID: -612682693621645349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_22
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 210
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571712ecd2e22ec80800000000000000
+      internalID: -8295016789396328075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 138
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0b280a0d233bfb0800000000000000
+      internalID: -4633303720006602541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_24
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 138
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae67f611e25406d0800000000000000
+      internalID: -3025201922979696988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 138
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e424fa603c1dbe0800000000000000
+      internalID: -1454166771186381311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_26
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 138
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb4a0f3d1b19a2b0800000000000000
+      internalID: -5572893251468637249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_27
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 138
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94226f3973a03d790800000000000000
+      internalID: -7506644920074624439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_28
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 138
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7328deec2261a5d0800000000000000
+      internalID: -3053051127255260289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_29
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 138
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2756ce95134b81580800000000000000
+      internalID: -8856130543169018510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_30
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 161
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264bdf4d5a1f9ff00800000000000000
+      internalID: 1151216874315166818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_31
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 75
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e254a69a870aa0b50800000000000000
+      internalID: 6560232247317382446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_32
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 75
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa3894828e4fb3b0800000000000000
+      internalID: -5494586697891431688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 75
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5449a472dfd6a9cd0800000000000000
+      internalID: -2550605304898612155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_34
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 75
+        width: 67
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8485a3833c7ba60c0800000000000000
+      internalID: -4581647621806204856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfad7b7d7d81aa500800000000000000
+      internalID: 408166031546637051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_36
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 8
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69b52d32d6bedf20800000000000000
+      internalID: 3449395378697648494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_37
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 8
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b106d1bf4e0a66a40800000000000000
+      internalID: 5361149311757148187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_38
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 8
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3c1924573519ff0800000000000000
+      internalID: -31151959321754665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4grenademan2_39
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 8
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d348c7062728446a0800000000000000
+      internalID: -6465899737240533955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
