@@ -1,2 +1,2 @@
 # ZerooGame
-Test
+Test a game
